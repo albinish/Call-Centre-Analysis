@@ -21,8 +21,7 @@ Designed a Call Centre Performance Dashboard using Power BI to monitor key metri
 * Key performance indicators (KPI's):
 
 📈 Overall Customer Satisfaction:
-
-Achieved a satisfaction rating of 3.40, showing room for improvement in enhancing customer experiences.
+* Achieved a satisfaction rating of 3.40, showing room for improvement in enhancing customer experiences.
 
 📞 Call Handling Efficiency:
 
@@ -30,7 +29,7 @@ Achieved a satisfaction rating of 3.40, showing room for improvement in enhancin
 * Calls Abandoned: 946 (18.92%), highlighting the need to reduce call abandonment rates.
 
 ⏱️ Average Speed of Answer:
-Averaged at 67.52 seconds, a critical factor in customer satisfaction.
+* Averaged at 67.52 seconds, a critical factor in customer satisfaction.
 
 📊 Calls by Time:
 Monitored call volumes across months to identify peak times and optimize staffing levels:
@@ -40,8 +39,7 @@ Monitored call volumes across months to identify peak times and optimize staffin
 * March: 1,301 calls answered
 
 🎯 Agent Performance Analysis:
-
-Evaluated agents on Average Handle Time vs. Calls Answered to identify top performers and training needs.
+* Evaluated agents on Average Handle Time vs. Calls Answered to identify top performers and training needs.
 Example: Jim answered 536 calls with an average response time of 66.34 seconds.
 
 
